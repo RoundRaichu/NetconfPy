@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=NetConf Tool
+Comment=A simple NetConf tool
+GenericName=NetConf Browser
+Exec="/usr/lib/NetConfTool/NetConf Tool"
+Icon=/usr/lib/NetConfTool/res/logo.ico
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Categories=Development
+Name[en]=NetConf Tool

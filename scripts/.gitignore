@@ -1,0 +1,6 @@
+/build/
+/dist/
+/release/
+/venv/
+/deb-gen/
+RELEASE_INFO

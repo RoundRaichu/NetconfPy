@@ -1,0 +1,13 @@
+wheel
+anytree
+pyinstaller
+requests
+pyinstaller-versionfile
+lxml
+paramiko
+sip
+# ncclient
+PyQt5 == 5.15.4; python_version <='3.8'
+PyQt5-sip==12.12.1; python_version <='3.8' and sys_platform == "win32"
+
+PyQt5; python_version > '3.8'

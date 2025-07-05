@@ -1,0 +1,2 @@
+pkill -9 'NetConf Tool'
+rm -rf /usr/lib/NetConfTool

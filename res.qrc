@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add-file.png</file>
+        <file>res/add-folder.png</file>
+        <file>res/add-to-favorites.png</file>
+        <file>res/bookmark.png</file>
+        <file>res/cancel.png</file>
+        <file>res/close.png</file>
+        <file>res/connected.png</file>
+        <file>res/delete.png</file>
+        <file>res/disconnected.png</file>
+        <file>res/download.png</file>
+        <file>res/edit.png</file>
+        <file>res/eye-close.png</file>
+        <file>res/eye-open.png</file>
+        <file>res/favorite.png</file>
+        <file>res/file.png</file>
+        <file>res/filter.png</file>
+        <file>res/flash.png</file>
+        <file>res/folder.png</file>
+        <file>res/logo.ico</file>
+        <file>res/logo.icns</file>
+        <file>res/logo.png</file>
+        <file>res/ok.png</file>
+        <file>res/plus.png</file>
+        <file>res/restart.png</file>
+        <file>res/search.png</file>
+        <file>res/sent.png</file>
+        <file>res/setting.png</file>
+        <file>res/unavailable.png</file>
+        <file>res/wait.png</file>
+        <file>res/capability.png</file>
+        <file>res/yinyang.png</file>
+        <file>res/copy.png</file>
+        <file>res/no-register.png</file>
+        <file>res/xml.png</file>
+        <file>res/commit.png</file>
+        <file>res/cancel-commit.png</file>
+        <file>res/confirm-commit.png</file>
+        <file>res/discard-changes.png</file>
+        <file>res/validate.png</file>
+        <file>res/lock.png</file>
+        <file>res/session-manager.png</file>
+        <file>res/rename.png</file>
+        <file>res/quick-connect.png</file>
+        <file>res/copy-to-clipboard.png</file>
+        <file>res/clone-session.png</file>
+        <file>CHANGELOG.txt</file>
+        <file>VERSION</file>
+        <file alias="RELEASE_INFO">scripts/RELEASE_INFO</file>
+    </qresource>
+    <!-- <qresource prefix="/tr">
+        <file alias="tr_zh_CN">tr_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file alias="stylesheet">StyleSheet.css</file>
+    </qresource> -->
+</RCC>
