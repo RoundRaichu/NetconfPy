@@ -1021,7 +1021,7 @@ class MainWindow(QMainWindow):
 
    def _onHelpClicked(self):
       QDesktopServices.openUrl(
-          QUrl('http://conf.ruijie.work/pages/viewpage.action?pageId=505610263'))
+          QUrl(''))
 
    def _onAboutClicked(self):
       about = About(self)
@@ -1032,7 +1032,7 @@ class MainWindow(QMainWindow):
 
    def _onReportIssue(self):
       QDesktopServices.openUrl(QUrl(
-          "mailto: lijiaquan@ruijie.com.cn?subject=Issue of NetconfTool&body=What problems are you experiencing?\n\n\nPlease pack the log files in the [%s] directory and send them to me together!" % AppInfo.logdir()))
+          "mailto: wangcybest@gmail.com?subject=Issue of NetconfTool&body=What problems are you experiencing?\n\n\nPlease pack the log files in the [%s] directory and send them to me together!" % AppInfo.logdir()))
 
    def _onActionHistoryToggled(self, checked):
       self.appdata.ui_history = checked

@@ -8,13 +8,6 @@
   FileClose(Local[1]), \
   Local[2]
 
-#define MyAppName "NetConf Tool"
-#define MyAppPublisher "Ruijie Networks Co.,Ltd"
-#define MyAppURL "https://ruijie.com.cn/"
-#define MyAppExeName "NetConf Tool.exe"
-#define MyAppVersion=RetrieveVersion("dist\NetConfTool\VERSION")
-#define MyAppCopyright "Copyright (C) 2023 Ruijie Networks Co.,Ltd."
-
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)

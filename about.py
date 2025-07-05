@@ -63,7 +63,7 @@ class About(QDialog):
 
         mailto = QLabel(self)
         mailto.setText(
-            """<a href="mailto: lijiaquan@ruijie.com.cn?subject=Issue of NetconfTool&body=What problems are you experiencing?\n\n\nPlease pack the log files in the [%s] directory and send them to me together!">lijiaquan@ruijie.com.cn</a>""" % AppInfo.logdir())
+            """<a href="mailto: wangcybest@gmail.com?subject=Issue of NetconfTool&body=What problems are you experiencing?\n\n\nPlease pack the log files in the [%s] directory and send them to me together!">wangcybest@gmail.com</a>""" % AppInfo.logdir())
         mailto.setOpenExternalLinks(True)
         mailto.setCursor(Qt.PointingHandCursor)
 
@@ -79,7 +79,7 @@ class About(QDialog):
 
         # corpyright
         about_layout.addWidget(QLabel(
-            "Copyright © 2023 - 2024 Ruijie Networks Co.,Ltd.  All rights reserved."), 0, Qt.AlignCenter)
+            "Copyright © 2023 - 2025 "), 0, Qt.AlignCenter)
         about_layout.addStretch(1)
         about_layout.setAlignment(Qt.AlignCenter)
 
